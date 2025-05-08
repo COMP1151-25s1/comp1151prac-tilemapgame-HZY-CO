@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TileGameDraft.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/49171739/Documents/comp1151prac-tilemapgame-HZY-CO/Assets/Tiled/TileMapGame/TinyDungeonTileSheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "TileGameDraft.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 107.83333333333334,
+                "y": -37
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/49171739/Documents/comp1151prac-tilemapgame-HZY-CO/Assets/Tiled/TileMapGame/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/49171739/Documents/comp1151prac-tilemapgame-HZY-CO/Assets/Tiled/TileMapGame/TinyDungeonTileSheet.tsx",
+        "TileGameDraft.tmx"
+    ],
+    "project": "GameTileMap.tiled-project",
+    "recentFiles": [
+        "C:/Users/49171739/Documents/comp1151prac-tilemapgame-HZY-CO/Assets/Tiled/TileMapGame/TinyDungeonTileSheet.tsx",
+        "TileGameDraft.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
